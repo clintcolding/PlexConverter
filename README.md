@@ -1,2 +1,2 @@
 # PlexConverter
-Simple script to convert video files in a folder.
+Simple script that converts 1080p video files into 720p via Handbrake.
