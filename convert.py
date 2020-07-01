@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-path = '/mnt/sdb/plex/tvshows/90 Day Fiancé - Happily Ever After!/Season 4'
+path = '<full path to folder>'
 preset = 'General/Fast 720p30'
 
 for video in os.listdir(path):
